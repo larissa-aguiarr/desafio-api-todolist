@@ -9,7 +9,7 @@ API REST de gerenciamento de tarefas desenvolvida com Spring Boot.
 - Spring Web
 - Spring Data JPA
 - Maven
-- Banco de dados H2 / PostgreSQL (ajuste conforme estiver usando)
+- Banco de dados H2 / PostgreSQL 
 
 ---
 
